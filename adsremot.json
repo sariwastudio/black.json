@@ -15,13 +15,13 @@
         "status_promote": "1",
         "interval": 2,
         "inter_splash":"1",
-        "pengaturan_iklan":"1",
+        "pengaturan_iklan":"0",
         "rewardid":"",
         "fan_inter":"",
         "fan_banner_native":"",
         "fan_native":"",
         "koin":500,
-        "pengaturan_reward":"1"
+        "pengaturan_reward":"0"
 
         }
     ]
