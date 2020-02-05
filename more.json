@@ -1,0 +1,41 @@
+{	"data":
+	[	
+		{
+			"id":1,
+			"judul":"Waterfall One",
+			"image":"https://images.pexels.com/photos/358457/pexels-photo-358457.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+			"link":"https://images.pexels.com/photos/358457/pexels-photo-358457.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+		},
+			{
+			"id":2,
+			"judul":"Waterfall Two",
+			"image":"https://images.pexels.com/photos/1598073/pexels-photo-1598073.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+			"link":"https://images.pexels.com/photos/358457/pexels-photo-358457.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+			},
+		{
+			"id":3,
+			"judul":"Waterfall Tilu",
+			"image":"https://images.pexels.com/photos/931007/pexels-photo-931007.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+			"link":"https://images.pexels.com/photos/358457/pexels-photo-358457.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+		},
+			{
+			"id":4,
+			"judul":"Waterfall Opat",
+			"image":"https://images.pexels.com/photos/1068795/pexels-photo-1068795.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+			"link":"https://images.pexels.com/photos/358457/pexels-photo-358457.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+			},
+		{
+			"id":5,
+			"judul":"Waterfall Lima",
+			"image":"https://images.pexels.com/photos/509363/pexels-photo-509363.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+			"link":"https://images.pexels.com/photos/358457/pexels-photo-358457.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+		},
+			{
+			"id":6,
+			"judul":"Waterfall Opat",
+			"image":"https://images.pexels.com/photos/878150/pexels-photo-878150.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+			"link":"https://images.pexels.com/photos/358457/pexels-photo-358457.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+			}
+
+	]
+}

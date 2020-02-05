@@ -1,0 +1,28 @@
+{
+    "redirect": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=com.alquranterjemahanindonesia.guruandroid",
+        "appid": "pub-8074230319419198",
+        "admobappid": "ca-app-pub-8074230319419198~3870167875",
+        "interid": "ca-app-pub-8074230319419198/4554857297",
+        "nativeid": "ca-app-pub-8074230319419198/1928693951",
+        "icon_promote": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtcLivNTS9yLnzS7_Q6GT1HxV4QwzJqtCDNQeC8qvLUo-aLdShSQ&s",
+        "judul_promote": "Promote App Example",
+        "deskripsi_promote": "Ini mah hanya contoh saja promosi iklan via json",
+        "gambar_promote": "https://images.unsplash.com/photo-1565624352806-6174c3453048?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
+        "link_promote": "https://www.google.com/",
+        "status_promote": "1",
+        "interval": 2,
+        "inter_splash":"1",
+        "pengaturan_iklan":"1",
+        "rewardid":"ca-app-pub-3940256099942544/5224354917",
+        "fan_inter":"981545408591412_999151030164183",
+        "fan_banner_native":"981545408591412_2709037092508893",
+        "fan_native":"981545408591412_1232226853523265",
+        "koin":500,
+        "pengaturan_reward":"1"
+
+        }
+    ]
+}
